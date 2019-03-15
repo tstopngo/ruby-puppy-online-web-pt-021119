@@ -5,7 +5,7 @@ attr_accessor :name
 
 
 def initialize
-  @@all = [ ]
+  @@all = []
 end
 
 end
