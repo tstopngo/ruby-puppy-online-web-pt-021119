@@ -12,6 +12,7 @@ class Dog
     while @@all.length != 0 do
       @@all.pop()
     end
+    @@all
   end
 
 end
