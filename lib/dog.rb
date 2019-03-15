@@ -12,6 +12,6 @@ class Dog
     while @@all.length != 0
       @@all.pop()
     end
-  
+  end
 
 end
