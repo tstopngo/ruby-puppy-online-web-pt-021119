@@ -7,7 +7,7 @@ class Dog
     @@all << self
   end
   
-  def clear_all
+  def self.clear_all
     while @@all.length != 0 do
       @@all.pop()
     end
