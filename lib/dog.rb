@@ -13,5 +13,7 @@ class Dog
     end
     @@all
   end 
+  
+  def self.all
 
 end
