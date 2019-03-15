@@ -1,7 +1,7 @@
 class Dog
-
-def initialize
   @@all = []
+def initialize
+  
 end
 
 end
