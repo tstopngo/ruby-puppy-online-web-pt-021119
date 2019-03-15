@@ -5,7 +5,6 @@ class Dog
   def initialize(name)
     @name = name
     @@all << self
-  
   end
   
   def clear_all
@@ -13,7 +12,6 @@ class Dog
       @@all.pop()
     end
     @@all
-  end
-
+  end 
 
 end
