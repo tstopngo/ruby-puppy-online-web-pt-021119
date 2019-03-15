@@ -1,6 +1,6 @@
 class Dog
   
-
+@@all = []
 
 
 end
